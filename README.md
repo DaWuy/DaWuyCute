@@ -32,9 +32,9 @@
 # 🤝🏻 Connect with Me
 <p align="left">
 
-<a href = "https://www.facebook.com/WuyChjll"><img src="https://img.icons8.com/clouds/60/000000/facebook-new.png"/></a>
-<a href = "https://www.tiktok.com/@dawuy.inc"><img src="https://img.icons8.com/clouds/60/000000/tiktok.png"/></a>
-<a href = "https://www.instagram.com/lazycrackmod/"><img src="https://img.icons8.com/clouds/60/000000/instagram-reel.png"/></a>
+<a href = "https://www.facebook.com/dwizdabest"><img src="https://img.icons8.com/clouds/60/000000/facebook-new.png"/></a>
+<a href = "https://www.tiktok.com/@dwizdabest"><img src="https://img.icons8.com/clouds/60/000000/tiktok.png"/></a>
+<a href = "https://www.instagram.com/dwizdabest/"><img src="https://img.icons8.com/clouds/60/000000/instagram-reel.png"/></a>
 <a href = "https://www.youtube.com/channel/UCa1jaAmt0Dy8CiP7KRY7saw"><img src="https://img.icons8.com/clouds/60/000000/cute-youtube.png"/></a>
 <a href = "https://github.com/DaWuyCute"><img src="https://img.icons8.com/clouds/60/000000/github.png"/></a>
 
