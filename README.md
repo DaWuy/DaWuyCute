@@ -12,13 +12,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on **[Facebook](https://www.facebook.com/WuyChjll)**
+- 🔭 I am currently working on **[Facebook](https://www.facebook.com/100006019750516)**
 
 - 🌱 I’m currently learning **ways to attack the operating system, encrypt data, secure network security**
 
 - 👯 I’m looking to collaborate on **Meta-Facebook**
 
-- 👨‍💻 All of my projects are available at **[Facebook](https://www.facebook.com/WuyChjll)**
+- 👨‍💻 All of my projects are available at **[Facebook](https://www.facebook.com/100006019750516)**
 
 - 📫 How to reach me **uchihahuypro@gmail.com**
 
@@ -32,7 +32,7 @@
 # 🤝🏻 Connect with Me
 <p align="left">
 
-<a href = "https://www.facebook.com/dwizdabest"><img src="https://img.icons8.com/clouds/60/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/100006019750516"><img src="https://img.icons8.com/clouds/60/000000/facebook-new.png"/></a>
 <a href = "https://www.tiktok.com/@dwizdabest"><img src="https://img.icons8.com/clouds/60/000000/tiktok.png"/></a>
 <a href = "https://www.instagram.com/dwizdabest/"><img src="https://img.icons8.com/clouds/60/000000/instagram-reel.png"/></a>
 <a href = "https://www.youtube.com/channel/UCa1jaAmt0Dy8CiP7KRY7saw"><img src="https://img.icons8.com/clouds/60/000000/cute-youtube.png"/></a>
